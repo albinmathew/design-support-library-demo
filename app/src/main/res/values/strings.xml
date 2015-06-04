@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Design Support Library Demo</string>
+
+  <string name="cheese_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nisi magna,
+    aliquam at eros in, sodales aliquam mauris. Nam vitae varius sapien. Cras suscipit sem enim,
+      lacinia placerat risus elementum at.
+      Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+      Morbi pellentesque risus ut congue mattis. Vestibulum non euismod sem. Nam id pellentesque sem.
+      Fusce varius, arcu et tincidunt feugiat, felis neque consequat mi, at dignissim nisl enim nec felis.
+      ut interdum urna laoreet.</string>
+  <string name="checkin">Checkin</string>
+  <string name="menu_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
